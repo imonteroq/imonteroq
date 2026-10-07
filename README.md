@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ignacio, a data engineer. Spark, Airflow, Scala, Iceberg.
+I'm Ignacio, a data engineer. Spark, Airflow, Scala, Python, Iceberg, Hudi.
 
 #### 🔭 Latest releases I've contributed to
 
